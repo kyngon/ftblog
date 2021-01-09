@@ -46,6 +46,7 @@ comments:
   staticman:
     branch               : "main"
     endpoint             : "https://dev.staticman.net/v3/entry/github/"
+  # endpoint             : "https://dev.staticman.net/v3/entry/github/kyngon/ftblog/main/"
 reCaptcha:
   siteKey                : "6LfGRiIaAAAAAHesSdwRKSLB1JDQ-RakqQsedEki"     
   secret                 : "G0EJJk0V2tZn3KZ758Z/VhbxHhgmBnaE5MJnTKYM691Zt38i9K6AWbXORy4qHv8OcE+Y51r0JbFXnqp+8WWubjA7XtfrC5WwblViid1EshLMvpc5a69apPN690JHT9nK5uOnc/MpEKFfAXRDg664pTMvrXgj58a1KuYmgmvLe14="
