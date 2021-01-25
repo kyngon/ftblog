@@ -15,5 +15,6 @@ I enjoy:
   - making origami
   - taking pictures with my mirrorless (but I'm too lazy to correct and enhance them digitally, so I keep them unmodified - shame on me)
   - watching anime
-  - drinking beer with friends
+  - going out with friends
+  - cryptography
   
