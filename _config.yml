@@ -16,11 +16,11 @@ minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "n
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Family Tree Researching & Building"
+title                    : "Family Tree How-To"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Moris"
-description              : "Documenting the search for family roots."
+description              : "Genealogy hints and guides"
 url                      : http://familytreehowto.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : / # the subpath of your site, e.g. "/blog"
 repository               : kyngon/ftblog # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -87,9 +87,9 @@ social:
 
 # Analytics
 analytics:
-  provider               : google # false (default), "google", "google-universal", "google-gtag", "custom"
+  provider               : google-universal # false (default), "google", "google-universal", "google-gtag", "custom"
   google:
-    tracking_id          : G-C426Z34VWX
+    tracking_id          : UA-186304276-1
     anonymize_ip         : # true, false (default)
 
 
