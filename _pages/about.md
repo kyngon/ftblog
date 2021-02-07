@@ -9,7 +9,7 @@ Born in the 80s, I live and work in Italy as a software developer.
 
 I enjoy:
   - reading books: mostly fantasy, SF and mistery.
-  - reading comics: both occidental and manga.
+  - reading comics: both manga and different styles.
   - gaming online: games such as World of Warcraft and Path of Exile.
   - gaming offline: old LucasArts point'n'click adventure games, such as The Secret of Monkey Island, Day of the Tentacle, etc.
   - making origami
@@ -17,4 +17,4 @@ I enjoy:
   - watching anime
   - going out with friends
   - cryptography
-  
+

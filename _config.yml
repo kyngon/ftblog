@@ -12,7 +12,7 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
@@ -45,12 +45,12 @@ comments:
     issue_term           : # "pathname" (default)
   staticman:
     branch               : "main"
-    endpoint             : "https://dev.staticman.net/v3/entry/github/"
-  # endpoint             : "https://dev.staticman.net/v3/entry/github/kyngon/ftblog/main/"
+  # endpoint             : "https://dev.staticman.net/v3/entry/github/"
+    endpoint             : "https://staticman-fblog.herokuapp.com/v2/entry/"
 reCaptcha:
-  siteKey                : "6LfGRiIaAAAAAHesSdwRKSLB1JDQ-RakqQsedEki"     
-  secret                 : "G0EJJk0V2tZn3KZ758Z/VhbxHhgmBnaE5MJnTKYM691Zt38i9K6AWbXORy4qHv8OcE+Y51r0JbFXnqp+8WWubjA7XtfrC5WwblViid1EshLMvpc5a69apPN690JHT9nK5uOnc/MpEKFfAXRDg664pTMvrXgj58a1KuYmgmvLe14="
-
+    siteKey              : "6Le8NTwaAAAAAPnMbRQ-CRS-fnezhM95Syw004UG" 
+    secret               : "UgfrtU+vU6ZGK0pAvCCRyfGutBdb1V8QLwqQIO5jgwWKNP5ZU5o1TTDakaB84dD+z5shqwE2nbORnzxL7GpHXBMSk6JwBOMMVX8w9VJck59OBtDdNTKweoyTrb3sEqORsKfJZ+CdaUjb9rRQtfaEmTb4jjC8qXgI3xnRVayDH50="
+ 
 atom_feed:
   path                   : # blank (default) uses feed.xml
 search                   : true # true, false (default)
